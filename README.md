@@ -129,4 +129,4 @@ YOUR_GITHUB_USERNAME → your GitHub username
 
 YOUR_LINKEDIN_USERNAME → your LinkedIn username
 
-your.email@example.com → your email address
+sunitameher9873@gmail.com 
